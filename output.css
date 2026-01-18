@@ -933,7 +933,7 @@ video {
 }
 
 .gap-10 {
-  gap: 2.5rem;
+  gap: 0.9rem;
 }
 
 .rounded-full {
@@ -1341,7 +1341,7 @@ video {
 @media (min-width: 1280px) {
   .xl\:px-\[8\%\] {
     padding-left: 8%;
-    padding-right: 8%;
+    padding-right: 4%;
   }
 }
 
